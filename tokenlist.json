@@ -1,10 +1,10 @@
 {
   "name": "Zsplash List",
-  "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png",
+  "logoURI": "",
   "keywords": [],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tokens": [
@@ -15,7 +15,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png"
+      "logoURI": ""
     },
     {
       "chainId": 324,
@@ -24,52 +24,34 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4/logo.png"
+      "logoURI": ""
     },
     {
       "chainId": 324,
-      "address": "0x7400793aAd94C8CA801aa036357d10F5Fd0ce08f",
+      "address": "0x0e97C7a0F8B2C9885C8ac9fC6136e829CbC21d42",
       "decimals": 18,
-      "name": "Celer Network BNB",
-      "symbol": "cBNB",
+      "name": "MUTE",
+      "symbol": "MUTE",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x7400793aAd94C8CA801aa036357d10F5Fd0ce08f/logo.png"
+      "logoURI": ""
     },
     {
       "chainId": 324,
-      "address": "0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181",
+      "address": "0x959ab3394246669914bddeaeb50f8ac85648615e",
       "decimals": 18,
-      "name": "Celer Network BUSD",
-      "symbol": "cBUSD",
+      "name": "zkLaunchpad",
+      "symbol": "ZKPAD",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181/logo.png"
+      "logoURI": ""
     },
     {
       "chainId": 324,
-      "address": "0x28a487240e4D45CfF4A2980D334CC933B7483842",
+      "address": "0xc8ec5b0627c794de0e4ea5d97ad9a556b361d243",
       "decimals": 18,
-      "name": "Celer Network MATIC",
-      "symbol": "cMATIC",
+      "name": "Whisper",
+      "symbol": "WISP",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x28a487240e4D45CfF4A2980D334CC933B7483842/logo.png"
-    },
-    {
-      "chainId": 324,
-      "address": "0x6A5279E99CA7786fb13F827Fc1Fb4F61684933d6",
-      "decimals": 18,
-      "name": "Celer Network AVAX",
-      "symbol": "cAVAX",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x6A5279E99CA7786fb13F827Fc1Fb4F61684933d6/logo.png"
-    },
-    {
-      "chainId": 324,
-      "address": "0xeE1E88eb20bECDebE1e88f50C9f8b1d72478f2d0",
-      "decimals": 18,
-      "name": "UniDex",
-      "symbol": "UNIDX",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0xeE1E88eb20bECDebE1e88f50C9f8b1d72478f2d0/logo.png"
+      "logoURI": ""
     }
   ],
   "timestamp": "2023-04-20T07:59:01.005Z"
