@@ -4,7 +4,7 @@
   "keywords": [],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
@@ -15,7 +15,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "tags": [],
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png"
     },
     {
       "chainId": 324,
@@ -24,7 +24,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "tags": [],
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png"
     },
     {
       "chainId": 324,
@@ -33,7 +33,7 @@
       "name": "MUTE",
       "symbol": "MUTE",
       "tags": [],
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png"
     },
     {
       "chainId": 324,
@@ -42,7 +42,7 @@
       "name": "zkLaunchpad",
       "symbol": "ZKPAD",
       "tags": [],
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png"
     },
     {
       "chainId": 324,
@@ -51,7 +51,7 @@
       "name": "Whisper",
       "symbol": "WISP",
       "tags": [],
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png"
     }
   ],
   "timestamp": "2023-04-20T07:59:01.005Z"
