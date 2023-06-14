@@ -9,7 +9,7 @@
   "timestamp": "2020-10-19T12:32:17.000+00:00",
   "tokens": [
     {
-      "chainId": 324,
+      "chainId": 280,
       "address": "0x57412D689F70E30a48277a00A04Cd587e08e7A25",
       "name": "Zplash",
       "symbol": "ZSH",
@@ -17,7 +17,7 @@
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/BTCEM_white.svg"
     },
     {
-      "chainId": 324,
+      "chainId": 280,
       "address": "0xd44dEf9f897b2305404F0742b00776De0D2A3446",
       "name": "stacked Zplash",
       "symbol": "eZSH",
@@ -27,7 +27,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
